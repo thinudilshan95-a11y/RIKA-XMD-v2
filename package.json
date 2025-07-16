@@ -1,0 +1,41 @@
+{
+  "name": "RIKA-XMD",
+  "version": "2.0.0",
+  "description": "RIKA-XMD WhatsApp bot created by Sadeesha using Node.js",
+  "main": "rika-xmd.js",
+  "scripts": {
+    "start": "pm2 start rika-xmd.js --deep-monitoring --attach --name RIKA-XMD",
+    "stop": "pm2 stop RIKA-XMD",
+    "restart": "pm2 restart RIKA-XMD"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:asitha-new-v99",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "pino": "latest",
+    "pm2": "latest",
+    "util": "latest",
+    "express": "latest",
+    "axios": "latest",
+    "file_size_url": "latest",
+    "fs-extra": "latest",
+    "path": "latest",
+    "archiver": "^7.0.1",
+    "node-fetch": "latest",
+    "megajs": "latest",
+    "vm": "latest",
+    "qrcode-terminal": "latest",
+    "yt-search": "latest",
+    "google-tts-api": "latest",
+    "wa-sticker-formatter": "latest",
+    "ruhend-scraper": "latest",
+    "child_process": "latest",
+    "@mrnima/tiktok-downloader": "latest",
+    "@mrnima/facebook-downloader": "latest",
+    "fluent-ffmpeg": "latest",
+    "@xaviabot/fb-downloader": "latest",
+    "g-i-s": "latest",
+    "cheerio": "latest",
+    "jimp": "0.16.1",
+    "denethdev-ytmp3": "latest"
+  }
+}
