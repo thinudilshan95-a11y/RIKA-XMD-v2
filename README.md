@@ -20,7 +20,7 @@ You can deploy this bot for free on the following platforms:
 <p style="text-align: center; font-size: 1.2em;">
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/pakebijja/RIKA-XMD-V1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/pakebijja/RIKA-XMD-V2)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### GitHub Actions Workflows
