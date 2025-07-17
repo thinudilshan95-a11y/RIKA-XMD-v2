@@ -1,7 +1,7 @@
 {
   "name": "RIKA-XMD",
   "version": "2.0.0",
-  "description": "RIKA-XMD WhatsApp bot created by Sadeesha using Node.js",
+  "description": "RIKA-XMD WhatsApp bot created by Shamika using Node.js",
   "main": "rika-xmd.js",
   "scripts": {
     "start": "pm2 start rika-xmd.js --deep-monitoring --attach --name RIKA-XMD",
@@ -36,6 +36,7 @@
     "g-i-s": "latest",
     "cheerio": "latest",
     "jimp": "0.16.1",
+    "adm-zip": "^0.5.16",
     "denethdev-ytmp3": "latest"
   }
 }
