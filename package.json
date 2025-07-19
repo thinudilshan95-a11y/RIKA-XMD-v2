@@ -15,7 +15,7 @@
     "pm2": "latest",
     "util": "latest",
     "express": "latest",
-    "axios": "latest",
+    "axios": "^1.2.5",
     "file_size_url": "latest",
     "fs-extra": "latest",
     "path": "latest",
